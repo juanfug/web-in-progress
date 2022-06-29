@@ -36,14 +36,14 @@ header h1{
 }
 
 footer {
-  background-color: #ffffff;
+  background-color: #5D7AAB;
   position: relative;
   flex-direction: column;
   align-items: center;
 }
 
 footer > p {
-  color: #053396;
+  color: #FFFFFF;
   text-align: center;
   width: 100%;
   border-top: 1px solid;
@@ -55,6 +55,6 @@ footer > p {
 
 .cont-info-contac h3,
 p {
-  color: #053396;
+  color: #FFFFFF;
   margin: 1.5%;
 }
